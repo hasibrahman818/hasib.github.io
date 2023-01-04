@@ -1,0 +1,5 @@
+Student name: Hasib Rahman
+Student number: 697638
+Stuent class: IT1B
+URL student GitHub website: https://hasibrahman818.github.io/hasib.github.io/
+URL student GitHub repository: https://github.com/hasibrahman818/hasib.github.io
